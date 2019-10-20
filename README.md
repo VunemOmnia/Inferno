@@ -1,2 +1,2 @@
-# MC.github.io
-Minecraft server hosting through github, test 01
+# nothing
+blank server hosting through github, test 01
